@@ -1,0 +1,2 @@
+
+使用css的animation属性编写三种不同样式的loading.
